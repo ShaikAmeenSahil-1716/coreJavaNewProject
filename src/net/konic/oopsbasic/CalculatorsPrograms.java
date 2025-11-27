@@ -1,4 +1,4 @@
-package net.konic.oops;
+package net.konic.oopsbasic;
 
 import java.util.Scanner;
 
@@ -51,9 +51,8 @@ class CalculatorsPrograms{
     double divide2(int b, int c) {
         return (double) b / c;
     }
-}
 
-public class CalculatorsPrograms {
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

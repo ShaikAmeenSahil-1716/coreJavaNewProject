@@ -1,4 +1,4 @@
-package net.konic.oops;
+package net.konic.oopsbasic;
 
 import java.util.Scanner;
 

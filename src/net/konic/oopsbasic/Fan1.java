@@ -1,4 +1,4 @@
-package net.konic.oops;
+package net.konic.oopsbasic;
 
 class Fan {
     String brand;
