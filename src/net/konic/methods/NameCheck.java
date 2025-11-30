@@ -19,4 +19,12 @@ public class NameCheck {
         String result = obj.checkName("Sahil", "Ameen");
         System.out.println(result);
     }
+
+	public void readFullName() {
+		
+	}
+
+	public boolean isLongName() {
+		return false;
+	}
 }

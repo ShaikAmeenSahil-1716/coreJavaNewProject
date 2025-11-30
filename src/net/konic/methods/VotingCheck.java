@@ -6,8 +6,8 @@ public class VotingCheck {
         if(age >= 18) {
             return true;     
         } else {
-            return false;    
-        }
+     }
+		return false;
     }
 }
  
