@@ -1,4 +1,4 @@
-package net.konic.variable;
+package net.konic.operators;
 public class BasicVariablesDemo {
     public static void main(String[] args) {
         

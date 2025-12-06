@@ -9,11 +9,9 @@ public class AssignmentPractice {
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
 
-        // += operation
         number += 5;
         System.out.println("After number += 5  → " + number);
 
-        // -= operation
         number -= 3;
         System.out.println("After number -= 3  → " + number);
 
