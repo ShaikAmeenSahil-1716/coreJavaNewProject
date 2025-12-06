@@ -29,7 +29,7 @@ public class Student {
 
         Student.changeCollege("Narayana");
 
-        Student s = new Student("Arshiya", 12, "CSE");
+        Student s = new Student("Arshiya", 12,"CSE");
 
         s.display();
     }
