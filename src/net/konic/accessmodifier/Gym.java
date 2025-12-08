@@ -2,7 +2,7 @@ package net.konic.accessmodifier;
 
 class Gym {
 
-    static String gymName = "Power Fitness Gym";
+    static String gymName = "Power Gym";
 
     String name;
     int age;
