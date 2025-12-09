@@ -13,7 +13,7 @@ class LoginSystem {
     public static void main(String[] args) {
         LoginSystem ls = new LoginSystem();
 
-        ls.login("shiraz", "pass123");
-        ls.login(9000000000L, 1234);
+        ls.login("shaik", "pass123");
+        ls.login(900L, 1234);
     }
 }

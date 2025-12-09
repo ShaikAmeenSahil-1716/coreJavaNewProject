@@ -1,6 +1,6 @@
 package net.konic.overloading;
 
-class MarksCalculator {
+public class MarksCalculator {
 
     void calculateMarks(int m1) {
         System.out.println("Total Marks: " + m1);
