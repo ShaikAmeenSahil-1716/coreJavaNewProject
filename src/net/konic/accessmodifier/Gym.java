@@ -20,7 +20,7 @@ class Gym {
         switch (choice) {
 
             case 1:
-                System.out.println("Selected: Monthly Plan (₹500)");
+                System.out.println("Selected: Monthly Plan (₹600)");
                 break;
 
             case 2:
