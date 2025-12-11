@@ -1,7 +1,6 @@
 package net.konic.corejava;
 
 
-
 class Fan {
     String brand;
     int speed;
