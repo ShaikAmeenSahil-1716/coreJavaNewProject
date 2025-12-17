@@ -1,7 +1,12 @@
 package net.konic.overloading;
 
 class Student {
-
+ int x;
+ String y;
+     Student(int a, String b){
+    	 x=a;
+    	 y=b;
+     }
     void register(String name) {
         System.out.println("Registered: " + name);
     }
@@ -15,8 +20,8 @@ class Student {
     }
 
     public static void main(String[] args) {
-        Student s = new Student();
-
+        Student s = new Student(20,"khadeer");
+       
         s.register("Sahil");
         s.register("Sahil", 22);
         s.register("Sahil", 22, "Chennai");

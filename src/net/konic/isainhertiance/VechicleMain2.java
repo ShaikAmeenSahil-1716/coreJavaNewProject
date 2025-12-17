@@ -18,9 +18,9 @@ class Bike extends Vehicle {
     void start() {
         System.out.println("Bike starts with kick");
     }
-}
+//}
 
-public class VechicleMain2 {
+//public class VechicleMain2 {
     public static void main(String[] args) {
 
         Car c = new Car();
