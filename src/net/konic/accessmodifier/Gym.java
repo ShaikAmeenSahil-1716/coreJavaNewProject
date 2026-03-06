@@ -1,5 +1,5 @@
 package net.konic.accessmodifier;
-
+  
 class Gym {
 
     static String gymName = "Power Gym";
@@ -39,7 +39,7 @@ class Gym {
     public static void main(String[] args) {
 
         Gym g1 = new Gym("Ameen", 22);
-
+ 
         int choice = 1; 
         g1.chooseMembership(choice);
     }
